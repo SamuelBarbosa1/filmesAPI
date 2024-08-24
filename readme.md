@@ -118,6 +118,4 @@ Certifique-se de que ambos os servidores estão rodando antes de testar os endpo
 
 Sinta-se à vontade para contribuir com melhorias, abrir issues ou enviar pull requests.
 
-## Licença
 
-Este projeto é licenciado sob a [MIT License](LICENSE).
